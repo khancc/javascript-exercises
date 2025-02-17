@@ -1,6 +1,9 @@
-console.log(`me may beo`);
-let nanem1 = "coca";
-let surname = "khanc";
+const max = 57;
+const actual = max - 13;
+const percentage = actual / max;
+console.log(percentage);
 
-console.log(nanem1);
-console.log(surname);
+let a = 10;
+let b = 2;
+console.log((a = a ** 5));
+console.log(a % 23);
